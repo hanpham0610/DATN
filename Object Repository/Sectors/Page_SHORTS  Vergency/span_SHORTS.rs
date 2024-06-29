@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SHORTS</name>
+   <tag></tag>
+   <elementGuidId>b4862150-3eb3-4b72-a544-264e4dfb6c06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.active > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='box-wrapper']/main/div/div/div/div/ol/li[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce845448-6ece-44b2-9212-9fbf55f33966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SHORTS</value>
+      <webElementGuid>05c22a35-9198-4e13-8369-a42d2aad4a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;box-wrapper&quot;)/main[1]/div[@class=&quot;header-navigate clearfix mb15&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12 pd5&quot;]/ol[@class=&quot;breadcrumb breadcrumb-arrow&quot;]/li[@class=&quot;active&quot;]/span[1]</value>
+      <webElementGuid>2e5ece27-9567-4039-9e72-0a9b49924f94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='box-wrapper']/main/div/div/div/div/ol/li[5]/span</value>
+      <webElementGuid>95014a34-8ece-44ca-adfe-3944966fdb7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục'])[1]/following::span[1]</value>
+      <webElementGuid>099059d3-0b11-419c-aa7a-712313b4439b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::span[1]</value>
+      <webElementGuid>b7115ddf-46d2-4041-ae51-f832c851232a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Danh mục nhóm'])[1]/preceding::span[1]</value>
+      <webElementGuid>ecd86441-1052-463f-aa92-0fd00dd48fc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-SHIRTS'])[2]/preceding::span[1]</value>
+      <webElementGuid>ba72559c-57d7-44cd-9c51-985d116c2f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span</value>
+      <webElementGuid>003c377a-c085-46f4-8680-892a8c047c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SHORTS' or . = 'SHORTS')]</value>
+      <webElementGuid>d57bf998-d9eb-4012-b6cf-8ca2413dd527</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

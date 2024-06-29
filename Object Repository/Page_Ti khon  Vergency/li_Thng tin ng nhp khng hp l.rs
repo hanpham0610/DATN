@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Thng tin ng nhp khng hp l</name>
+   <tag></tag>
+   <elementGuidId>9d9f9c97-f538-4e4f-8946-27e4e679527c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.errors > ul > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='customer_login']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e98fae88-5bd9-4a86-864c-95eece3137e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thông tin đăng nhập không hợp lệ.</value>
+      <webElementGuid>f6a486a4-5b05-4926-aaa9-0691b3c42a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_login&quot;)/div[@class=&quot;errors&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>9b47cdd8-e67e-4835-9f9f-919c499d5601</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customer_login']/div/ul/li</value>
+      <webElementGuid>1c859c40-f4ef-4c8c-8754-6444d988479a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/following::li[1]</value>
+      <webElementGuid>247ba076-93aa-4427-bc1b-b4fdff092647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/following::li[1]</value>
+      <webElementGuid>a6babaca-f781-4ca5-80d0-0d1049ef3269</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::li[1]</value>
+      <webElementGuid>1d4dd944-2901-4ef6-82f0-ceedf0908914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thông tin đăng nhập không hợp lệ.']/parent::*</value>
+      <webElementGuid>81b45d1a-38b8-4e28-9fea-ec5141aac89f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/ul/li</value>
+      <webElementGuid>f4b42c1c-1d25-4ed2-80a9-eb32a3cd9d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Thông tin đăng nhập không hợp lệ.' or . = 'Thông tin đăng nhập không hợp lệ.')]</value>
+      <webElementGuid>7a8ed98e-8f87-4204-831f-102ffe03c231</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

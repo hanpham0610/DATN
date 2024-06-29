@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ti khon</name>
+   <tag></tag>
+   <elementGuidId>240f51ad-440e-43d0-88b4-fb3db5a049f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='box-wrapper']/main/div/div/div/div/ol/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ol.breadcrumb.breadcrumb-arrow > li:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4f072edb-710f-4626-b16b-a5c27c3b092c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account</value>
+      <webElementGuid>6bfba5b5-fb5e-461b-a4ac-b6d761f183f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>29a4f88c-6866-4c32-822e-2b058dfa2f64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tài khoản</value>
+      <webElementGuid>5fc70529-016c-4f29-a5fd-0c292a2790dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;box-wrapper&quot;)/main[1]/div[@class=&quot;header-navigate clearfix mb15&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12 pd5&quot;]/ol[@class=&quot;breadcrumb breadcrumb-arrow&quot;]/li[3]/a[1]</value>
+      <webElementGuid>cf8d9f9c-a9de-41e9-ab21-f66425a64e08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='box-wrapper']/main/div/div/div/div/ol/li[3]/a</value>
+      <webElementGuid>44e6e601-3338-47f1-851a-039952ec4620</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tài khoản')]</value>
+      <webElementGuid>f2d538d2-0762-4e91-b806-a577d434c1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[1]/following::a[1]</value>
+      <webElementGuid>6f44cf19-91e2-4fda-9265-61370015e74b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VERGENCY INSTAGRAM'])[1]/following::a[2]</value>
+      <webElementGuid>b7f7f243-751e-4207-82a0-7b948aac129d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thoát'])[1]/preceding::a[1]</value>
+      <webElementGuid>9e4c1d25-c33c-47fb-8e10-46effd01513f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tài khoản']/parent::*</value>
+      <webElementGuid>5f4670a3-f319-402b-b545-0fdcd7d59ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/account')])[2]</value>
+      <webElementGuid>9afc8710-e95f-41d1-8cd9-7314077c935b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ol/li[3]/a</value>
+      <webElementGuid>afde177d-1b6f-4387-9f3e-1a5897109052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/account' and (text() = 'Tài khoản' or . = 'Tài khoản')]</value>
+      <webElementGuid>29394d34-b90e-42ea-97a8-e6ca14e3dac3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Hon tt n hng_btn-spinner icon icon-button_7dcd92</name>
+   <tag></tag>
+   <elementGuidId>9a673479-7de4-49d6-97f0-abda30b04d90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.step-footer-continue-btn.btn.ready > i.btn-spinner.icon.icon-button-spinner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='checkout_complete']/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>eac7bdab-4625-46ab-baf2-a41798f4ed7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-spinner icon icon-button-spinner</value>
+      <webElementGuid>ac07424c-f865-4362-bb13-41df4b9bfbd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_complete&quot;)/button[@class=&quot;step-footer-continue-btn btn ready&quot;]/i[@class=&quot;btn-spinner icon icon-button-spinner&quot;]</value>
+      <webElementGuid>2acc951c-66c8-4597-881f-a9f2493b2948</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkout_complete']/button/i</value>
+      <webElementGuid>9574de88-4def-46f3-82fe-ea37c2ff82ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/i</value>
+      <webElementGuid>ed30e656-26c0-4e5b-8d86-e3c85a8b72c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

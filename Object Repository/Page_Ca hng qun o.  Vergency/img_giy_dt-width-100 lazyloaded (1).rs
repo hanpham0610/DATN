@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_giy_dt-width-100 lazyloaded (1)</name>
+   <tag></tag>
+   <elementGuidId>0280c302-27fd-49ce-a4cd-6e627129066d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.img_first > img.dt-width-100.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='group-sale-index']/div[2]/div/div/div/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>185308b2-5d1a-4f58-938d-64014693bfe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dt-width-100 lazyloaded</value>
+      <webElementGuid>2705a656-a9fa-452a-9644-2f7ca5ea8828</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>480</value>
+      <webElementGuid>80059576-3c9c-421c-961d-30a2e934c08e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>480</value>
+      <webElementGuid>0f95360f-3fae-4ece-9467-8a78eabd9979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//product.hstatic.net/200000305259/product/tee_solid_beige_1_7de152a789824544a8fb0eab449e57e6_large.jpg</value>
+      <webElementGuid>3641183a-4704-435c-b680-a56f05064e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>//product.hstatic.net/200000305259/product/tee_solid_beige_1_7de152a789824544a8fb0eab449e57e6_large.jpg</value>
+      <webElementGuid>5a9b3a58-ac68-4b60-817d-4286a91df39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Simple T-Shirt/Cream</value>
+      <webElementGuid>9c3daaa9-dd25-4e9b-b9e0-b3d053a852c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group-sale-index&quot;)/div[@class=&quot;row box-product-lists&quot;]/div[@class=&quot;col-lg-3 col-md-4 col-sm-4 col-xs-6 product-wrapper product-resize mb30 fixheight&quot;]/div[@class=&quot;product-information&quot;]/div[@class=&quot;product-detail clearfix&quot;]/div[@class=&quot;product-image image-resize&quot;]/a[1]/div[@class=&quot;img_first&quot;]/img[@class=&quot;dt-width-100 lazyloaded&quot;]</value>
+      <webElementGuid>3365a2f4-92b8-4e71-aad5-4daf89705ec2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='group-sale-index']/div[2]/div/div/div/div/a/div/img</value>
+      <webElementGuid>a5c93c0a-4992-4527-b6f8-fa730e73b840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Simple T-Shirt/Cream']</value>
+      <webElementGuid>bc434fa3-5bf1-446b-b160-50daf982746a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/img</value>
+      <webElementGuid>c5fa2fdc-8ee7-4eef-9f1e-8fff6f4f2338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//product.hstatic.net/200000305259/product/tee_solid_beige_1_7de152a789824544a8fb0eab449e57e6_large.jpg' and @alt = 'Simple T-Shirt/Cream']</value>
+      <webElementGuid>03b05c12-ba12-45fc-ae63-6f6d52f2fe7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

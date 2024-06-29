@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use (1)</name>
+   <tag></tag>
+   <elementGuidId>85ca60b5-dfe8-4a1b-9734-8b7448b92524</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > a > svg.svg-next-icon.svg-next-icon-size-24 > use</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>d15e9706-2e0d-494c-b630-5697c03ec085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>23c93a8f-c04c-4159-b391-c1cf97f64017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#icon-user</value>
+      <webElementGuid>9ec642fc-160c-4bf9-8920-d1fff8daf728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;box-wrapper&quot;)/header[@class=&quot;hidden-xs&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;flexbox-grid-default col-xs-12&quot;]/div[@class=&quot;flexbox-content flexbox-align-self-center&quot;]/ul[@class=&quot;icon-control-header text-right&quot;]/li[2]/a[1]/svg[@class=&quot;svg-next-icon svg-next-icon-size-24&quot;]/use[1]</value>
+      <webElementGuid>0ba37ffa-e95a-481a-aca7-add9ed36ee6f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

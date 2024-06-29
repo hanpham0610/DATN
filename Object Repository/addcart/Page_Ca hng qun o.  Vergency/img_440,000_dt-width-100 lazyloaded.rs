@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_440,000_dt-width-100 lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>2d73dbf3-0b18-416c-9b9b-dbbc40cd25ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Shizu Donna T-Shirt/Black&quot;] > div.img_first > img.dt-width-100.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='group-sale-index']/div[2]/div[4]/div/div/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>361df06e-bcc3-488c-b46f-3e4556702ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dt-width-100 lazyloaded</value>
+      <webElementGuid>c6746738-4443-4c08-b5a0-cbf99fde9602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>480</value>
+      <webElementGuid>1568189b-c0ec-440a-bf61-f808dcad3bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>480</value>
+      <webElementGuid>d932ed1f-bf9e-4669-8816-170691ab3d3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//product.hstatic.net/200000305259/product/tee_shizu_donna_blk_1_9f1399b0ae0e415796074597cac0f769_large.jpg</value>
+      <webElementGuid>e89e0584-3dc3-46e6-9816-8920b4cc2ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>//product.hstatic.net/200000305259/product/tee_shizu_donna_blk_1_9f1399b0ae0e415796074597cac0f769_large.jpg</value>
+      <webElementGuid>6950e859-7ae2-41b8-8162-f5a7478821e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Shizu Donna T-Shirt/Black</value>
+      <webElementGuid>a1ac0a7c-08e8-4f76-8038-68ec0e6a48e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;group-sale-index&quot;)/div[@class=&quot;row box-product-lists&quot;]/div[@class=&quot;col-lg-3 col-md-4 col-sm-4 col-xs-6 product-wrapper product-resize mb30 fixheight&quot;]/div[@class=&quot;product-information&quot;]/div[@class=&quot;product-detail clearfix&quot;]/div[@class=&quot;product-image image-resize&quot;]/a[1]/div[@class=&quot;img_first&quot;]/img[@class=&quot;dt-width-100 lazyloaded&quot;]</value>
+      <webElementGuid>8a9178fd-186f-4fc4-b235-ecf3485d90e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='group-sale-index']/div[2]/div[4]/div/div/div/a/div/img</value>
+      <webElementGuid>53026c3d-c0a1-4458-a5a3-906ac24cbae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Shizu Donna T-Shirt/Black']</value>
+      <webElementGuid>e4eb713f-8127-4a32-9251-2b4226ced5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/a/div/img</value>
+      <webElementGuid>0aaac130-5982-4f81-866a-80fa5d25b95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//product.hstatic.net/200000305259/product/tee_shizu_donna_blk_1_9f1399b0ae0e415796074597cac0f769_large.jpg' and @alt = 'Shizu Donna T-Shirt/Black']</value>
+      <webElementGuid>f8497c46-4099-4999-9e55-913172aa3b39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

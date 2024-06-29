@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_S in thoi_order-checkout__loading--box show</name>
+   <tag></tag>
+   <elementGuidId>13a4cb41-3bce-4fba-8c1e-84c5e4dd6817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.order-checkout__loading--box.show</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form_update_location_customer_shipping']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9aaed042-b407-4a37-8fbe-fe128b542b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>order-checkout__loading--box show</value>
+      <webElementGuid>7d7ce2a5-d750-4cbd-a9ee-64e0d83258db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form_update_location_customer_shipping&quot;)/div[@class=&quot;order-checkout__loading--box show&quot;]</value>
+      <webElementGuid>00908afd-7c5c-4bed-8f87-b3965c635ccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form_update_location_customer_shipping']/div</value>
+      <webElementGuid>91326e40-0995-4fa5-918c-c68b6c3637cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số điện thoại'])[1]/following::div[5]</value>
+      <webElementGuid>ded39e45-19bb-4549-9c07-c32c5a969942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Họ và tên'])[1]/following::div[7]</value>
+      <webElementGuid>365d6bc9-74f3-44c3-8b4f-483872b4a435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ'])[1]/preceding::div[2]</value>
+      <webElementGuid>ae42b694-ddc1-407e-a17d-8898c7de4687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tỉnh / thành'])[1]/preceding::div[4]</value>
+      <webElementGuid>ac675ecc-4d64-4470-9515-cd9e11212e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/form/div/div/div</value>
+      <webElementGuid>89900edb-fceb-48f9-910e-e4b6c140890b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thm vo gi_icon_cart_btn</name>
+   <tag></tag>
+   <elementGuidId>9f0c36e9-1d9e-4349-a086-aeb9ec48e146</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn-style-buynow.addnow > span.icon_cart_btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='add-item-form']/div[3]/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6819443a-7e00-4f75-bf50-d77a3dc4e4c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon_cart_btn</value>
+      <webElementGuid>8ea12a69-8e2d-4957-9841-5eee5209478b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add-item-form&quot;)/div[@class=&quot;clearfix&quot;]/button[@class=&quot;btn-style-buynow addnow&quot;]/span[@class=&quot;icon_cart_btn&quot;]</value>
+      <webElementGuid>e43cc885-e0c7-495f-891f-c6a80da81846</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='add-item-form']/div[3]/button[2]/span</value>
+      <webElementGuid>6ca8047d-699f-4e10-89bb-57c7db511f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>3153c119-4fec-4cf6-a6a2-b7e448a2dacd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
